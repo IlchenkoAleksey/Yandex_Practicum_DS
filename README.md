@@ -14,3 +14,6 @@
 | 7                | [Прогнозирование оттока клиента Банка](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_07_bank_customer_churn/) | На основе данных из банка определить клиента, который может уйти | `Python`, `pandas`, `Scikit-learn` | `Бизнес`, `Инвестиции`, `Банковская сфера`, `Кредитование` |
 | 8                | [Выбор локации для скважины](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_08_oil_location/) | На основе данных геологоразведки выбрать район добычи нефти | `Python`, `Scikit-learn`, `бутстреп` | `Добывающие компании` |
 | 9                | [Система прогнозирования продажи отелей](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_09_booking_cancelation/) | Спрогнозировать кто из клиентов откажется от брони | `Python`, `Matplotlib`, `Numpy`, `Scikit-learn` | `Туризм`, `Интернет-сервисы` |
+| 10                | [Прогнозирование стоимости жилья в жилом массиве](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_10_housing_prises/) | Определить медианную стоимость квартиры | `Python`, `Pandas`, `PySpark` | `Площадки объявлений`, `Интернет-сервисы`, `Оффлайн` |
+
+
