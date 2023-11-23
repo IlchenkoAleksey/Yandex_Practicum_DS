@@ -19,5 +19,6 @@
 | 12                | [Построение модели определения стоимости автомобиля](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_12_car_prices/) | Разработка системы рекомендации стоимости автомобиля на основе его описания | `Python`, `pandas`, `time`, `sklearn`, `lightgbm` | `Интернет-сервисы`, `Интернет-магазины`, `Бизнес` |
 | 13                | [Прогнозирование температуры звезды](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_13_star_temp_predict/) | Определить температуру на поверхности звезды  | `Python`, `Pandas`, `PyTorch` | `Наука` |
 | 14                | [Разработка системы предупреждения аварий на каршеринге](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_14_car_accident_predict) | Построить систему предупреждения об аварии клиентам каршеринга  | `Python`, `Pandas`, `SQL`, `Scikit-learn`, `PostgreSQL`, `SQLAlchemy` | `Интернет-сервисы`, `Оффлайн`, `Бизнес` |
+| 15                | [Прогнозирование заказов такси](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_15_taxi_forecast) | Разработка системы предсказания объема заказа  | `Python`, `Pandas`, `Scikit-learn`, `statsmodels` | `Бизнес`, `Интернет-сервисы`, `Стартапы` |
 
 
