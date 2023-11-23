@@ -15,5 +15,5 @@
 | 8                | [Выбор локации для скважины](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_08_oil_location/) | На основе данных геологоразведки выбрать район добычи нефти | `Python`, `Scikit-learn`, `бутстреп` | `Добывающие компании` |
 | 9                | [Система прогнозирования продажи отелей](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_09_booking_cancelation/) | Спрогнозировать кто из клиентов откажется от брони | `Python`, `Matplotlib`, `Numpy`, `Scikit-learn` | `Туризм`, `Интернет-сервисы` |
 | 10                | [Прогнозирование стоимости жилья в жилом массиве](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_10_housing_prises/) | Определить медианную стоимость квартиры | `Python`, `Pandas`, `PySpark` | `Площадки объявлений`, `Интернет-сервисы`, `Оффлайн` |
-
+| 11                | [Защита данных клиентов страховой компании](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_11_personal_data_security/) | Разработка модели анонимизации персональных данных | `Python`, `NumPy`, `Scikit-learn` | `Банковская сфера`, `Интернет-сервисы`, `Инвестиции`, `Телеком` |
 
