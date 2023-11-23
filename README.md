@@ -21,4 +21,4 @@
 | 14                | [Разработка системы предупреждения аварий на каршеринге](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_14_car_accident_predict/) | Построить систему предупреждения об аварии клиентам каршеринга  | `Python`, `Pandas`, `SQL`, `Scikit-learn`, `PostgreSQL`, `SQLAlchemy` | `Интернет-сервисы`, `Оффлайн`, `Бизнес` |
 | 15                | [Прогнозирование заказов такси](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_15_taxi_forecast/) | Разработка системы предсказания объема заказа  | `Python`, `Pandas`, `Scikit-learn`, `statsmodels` | `Бизнес`, `Интернет-сервисы`, `Стартапы` |
 | 16                | [Обучение модели классификации комментариев](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_16_toxic_comments/) | Определение токсичности комментариев  | `Python`, `Pandas`, `ntlk`, `tf-idf` | `Интернет-сервисы`, `Стартапы` |
-
+| 17                | [Обработка фотографий покупателя](https://github.com/IlchenkoAleksey/Yandex_Practicum_DS/tree/main/project_17_age_determination/) | Определение возраста по фотографии  | `Python`, `Keras` | `Бизнес`, `Оффлайн` |
